@@ -1,1 +1,1 @@
-Updated experimental results for "Understanding the Emergence of Multimodal Alignment"
+Updated experimental results for "Understanding the Emergence of Multimodal Representation Alignment."
